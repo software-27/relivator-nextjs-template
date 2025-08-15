@@ -1,4 +1,4 @@
-# 🏬 relivator • next.js ecommerce starter
+## 🏬 relivator • next.js ecommerce starter
 
 [demo](https://relivator.com) — [sponsor](https://github.com/sponsors/blefnk) — [discord](https://discord.gg/Pb8uKbwpsJ) — [github](https://github.com/blefnk/relivator) — [docs](https://deepwiki.com/blefnk/relivator-nextjs-template)
 
@@ -147,3 +147,4 @@ the following api routes are available for payment processing:
 ## license
 
 mit © 2025 [nazar kornienko (blefnk)](https://github.com/blefnk), [reliverse](https://github.com/reliverse)
+
